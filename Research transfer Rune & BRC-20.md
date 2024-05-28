@@ -97,47 +97,71 @@ Tham khảo Runes trên các ví, sàn
 		1. Tương tự encipher
 		2. Xử lí đầy đủ các Tag, Flag
 		Cụ thể (Encode):
+
 ```
 interface RuneId {
 	block: u64Strict,
 	tx: u32Strict
 }
 
-function encodeRunestone (runestone): {sriptHexRunes, scriptHexCommitment?} {
-	// if has mint: 
-	if has etching {
-		handleRuneSpace()
+fn encodeRunestone (runestone): {sriptHexRunes, scriptHexCommitment?}:
+	if runestone.mint: mint = parseMint(runestone.mint)
+	if runestone.pointer: pointer = parsePointer(runestone.pointer)
+	if runestone.edicts: edicts = parseEdicts(runestone.edicts)
+	if runestone.etching: 
+		(etching, etchingCommitment) = parseEtching(runestone.etching)
+
+	return {
+		encodedRunestone: Runestone(mint, pointer, edicts, etching).encipher()
+		etchingCommitment: etchingCommitment?
 	}
-}
-```
-	1. Hàm encodeRunestone
-			1. Đầu vào: json metadata runes
-			2. Đầu ra: scriptHex Runestone + scriptHex Commitment (trong trường hợp etching)
-		1. Xử lí dữ liệu các field mint nếu có -> đưa về type RuneId (u64, u32)
-		2. Xử lí dữ liệu pointer nếu có -> đưa về type u32
-		3. Xử lí dữ liệu **edicts** nếu có -> đưa về type Array<{RuneId (u64, u32), u128, u32}>
-		4. Xử lí dữ liệu etching nếu có:
-			1. Xử lí spaced rune name, symbol, divisibility, premine, spacer, turbo.
-			2. Handle các điều kiện (Max divisibility, max script size, commit confỉmation).
-			3. Xử lí các điều kiện trong term (amount, cap, height, offset).
-			4. Xử lí parse commitment (Quan trọng khi etch). Giao thức commit-reveal (Đọc thêm [1](https://github.com/magicoss/runestone-lib/blob/196617942be49e3497e58704ed70c53bacff07f6/src/rune.ts#L5), [2](https://docs.ordinals.com/runes/specification.html#:~:text=To%20prevent%20front,etching%20is%20ignored.)
-		5. Mã hoá đống data đã đưa về chuẩn thành unsigned message (encipher)
-			1. Khởi tạo 1 payloads chứa datapush
-			2. Lần lượt check etching, mint, edict và đẩy data tương ứng vào payloads, dựa theo Tag, Flag -> Mục đích đoạn này để kiểm soát cenotaph (Cenotaphs may be created if a runestone contains an unrecognized even tag).
-				1. Phần Edicts trước khi đẩy vào sẽ được sort theo block, tx.
-				2. Sau đó list Edicts sẽ được push lần lượt theo 'delta' encoded.
-					![[Pasted image 20240528152326.png]]
-				3. Đẩy vào stack: OP return + OP_13 (MAGIC_NUM) + payload
-				4. Compile stack.
-					....
-	2. Decode: Lật ngược tất cả các bước, từ việc mapping các opcode.
+
+fn parseEtching(etchingObj): {scriptHexRunes, scriptHexCommitment}:
+	etchingMetadata = handleEtchingMetadata(etchingObj) // BaseMetadata + Term
+	etching = new Etching(etchingMetadata)
+	checkValid() // Max divisibility, max script size, commit confỉmation, term
+	etchingCommitment = getEtchingCommitment(etchingObj) // Đọc thêm [1][2]
+	
+	return {
+		etching, 
+		etchingCommitment
+	}
+
+class Runestone:
+	fn encipher(): // convert data to unsigned message
+		array payloads
+		if has etching:
+			flags = checkAndSet(Runestone) // etching, terms, turbo
+			pushPayload(flags, payloads)
+			pushPayload(Runestone.etching, payloads)
+		if has mint:
+			pushPayload(Runestone.mint, payloads)
+		if has edicts:
+			edicts.sortDescending()
+
+			previousEdict = RuneId(0:0)
+			for each edict in edicts:
+				edictEncoded = convertEdict(previousEdict, edict) 
+					// convert to delta encoded
 				
-1. Luminex: 
+				pushPayload(edictEncoded)
+				previoudEdict = RuneId(edict)
+
+		stack = stack.push(OP_RETURN).push(OP_13).push(payload)
+		compileStack(stack)
+		
+```
+
+Đọc thêm [1](https://github.com/magicoss/runestone-lib/blob/196617942be49e3497e58704ed70c53bacff07f6/src/rune.ts#L5), [2](https://docs.ordinals.com/runes/specification.html#:~:text=To%20prevent%20front,etching%20is%20ignored)
+
+Decode: Lật ngược tất cả các bước, từ việc mapping các opcode.
+
+6. Luminex: 
 	1. Không opensoure Dapp - Đã thử hỏi mod discord bên đấy
 	2. [Github](https://github.com/luminexord/runes)
 	3. [Dapp](https://luminex.io/runes/mint)
 	4. [Docs](https://luminex.gitbook.io/luminex/runes/faqs-general-concepts)
-2. OrdinalsBot:
+7. OrdinalsBot:
 	1. Không opensource
 	2. [Github](https://github.com/ordinalsbot)
 	3. [Dapps](https://ordinalsbot.com/runes)
