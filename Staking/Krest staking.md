@@ -1,0 +1,2 @@
+- Khi out top nhận reward sẽ tự động bị unstake. Cần đợi hết unstaking period và withdraw.
+- Không có cancel unstake.
