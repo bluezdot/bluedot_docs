@@ -1,5 +1,6 @@
 1. Runes
-	1.1 Tech:
+
+1.1. Tech:
 		- Để transfer rune, cần ghi dữ liệu lên bitcoin transaction dựa trên runestone message ([Đọc thêm ở đây](https://www.notion.so/subwallet/C-c-kh-i-ni-m-c-b-n-2e07316f42014439aaae153d4c82bed8?pvs=4#c3ca5655827541578ee4ae1d1d9a205f)) lên UTXO. Triển khai phần này sẽ rất khó, cần thời gian nghiên cứu. -> Sử dụng ord.
 		- Ord là 1 index & command-line wallet. Ord cung cấp các command-line để tương tác với bitcoin blockchain. Để transfer, đầu tiên cần tạo 1 file yaml với format và metadata như [đã nghiên cứu](https://www.notion.so/subwallet/C-c-kh-i-ni-m-c-b-n-2e07316f42014439aaae153d4c82bed8?pvs=4#e50cc07ff8ca4b5b82d33461a3c309e1). Để send rune, sử dụng command:
 			`ord --cookie-file <COOKIE_PATH> --data-dir <ENV PATH> wallet send <RECEIVE_ADDRESS><AMOUNT>:<RUNENAME> --fee-rate 1`.
@@ -10,7 +11,8 @@
 			- Bitcoin Core (v25/v26)
 			- Ord v0.17.1
 		- Có thể tham khảo thêm [code unisat](https://github.com/unisat-wallet/extension).
-	1.2 Non-tech:
+	
+1.2 Non-tech:
 		- Việc transfer runes sẽ tương tự như mint/etch chỉ khác về mặt dữ liệu được ghi lên UTXOs. Để có thể transfer runes, cần đưa runestone message vào transaction. runestone message có mục đích ghi các bản Edicts lên UTXO trong phần data sau `OP_RETURN OP_13` với format `Edict {RuneId, amount, output}`
 		- Runestone có. thể chứa số lượng edicts bất kì
 		- Nếu amount > 0 hoặc amount > possible => Lấy amount = max available
