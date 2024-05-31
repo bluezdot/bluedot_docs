@@ -1,4 +1,4 @@
-rrrrrree = Tổng input - tổng Output
+Fee = Tổng input - tổng Output
 ![[Pasted image 20240523162246.png]]
 
 ## Memory pool
