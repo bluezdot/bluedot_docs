@@ -1,0 +1,22 @@
+- OP_0: Push empty array
+- OP_PUSHBYTES_1 -> OP_PUSHBYTES_75: Push next X bytes. 
+	- In case bytes 0x01 to 0x10, should use OP_1 -> OP_16 instead of.
+	- In case bytes 0x81, should use OP_1NEGATE instead of.
+- OP_PUSHDATA1, OP_PUSHDATA2, OP_PUSHDATA4: Read next X bytes as N (hexadecimal to decimal). Push the next N bytes onto stack. In practice, OP_PUSHDATA4 has never been use because largest data push allowed by consensus rules is 520 bytes.
+- OP_1 -> OP_16: Also knowned as OP_PUSHNUM_1 -> OP_PUSHNUM_16, to push number 1 -> number 16 to stack.
+- OP_1NEGATE: Represent -1 (129 in 3's representation).
+- OP_RESERVED, OP_VER: fail script imediately, but it must be executed.
+- OP_VERIF, OP_VERNOTIF: fail script imediately and does not executed.
+- OP_NOP: do nothing.
+- OP_IF, OP_NOTIF, OP_ELSE, OP_ENDIF: Check top stack item != 0 to execute the following codes until meet OP_ELSE or OP_ENDIF. OP_NOTIF is opposite to OP_IF. In case check fail, execute following codes after OP_ELSE until OP_ENDIF, else skip. OP_ENDIF mark the end of conditional segment, continue to executing the following opcodes.
+- OP_VERIFY: Pop top item. If 0 or empty string -> fail script. Else, continue executed with remove that top item.
+- OP_RETURN: fail script imediately, but it must be executed. Allow including of a small arbitrary data. This opcode mark the output as unspendable and keep arbitrary data remains permanently on the blockchain.
+- OP_TOALTSTACK - OP_FROMALTSTACK: Move top item of main stack to alternative stack. -> To handle complex script logic from manage 2 stack items.
+- OP_DROPX, OP_DUPX: Drop X top item/Duplicated X top item
+- OP_CAT: Originally to concatenate 2 strings but due to potential vulnerabilities, it was disabled -> fail script and does not executed.
+- OP_SUBSTR
+- OP_LEFT
+- OP_RIGHT
+- 
+
+References: https://opcodeexplained.com/opcodes
