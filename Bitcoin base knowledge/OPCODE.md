@@ -17,6 +17,6 @@
 - OP_SUBSTR
 - OP_LEFT
 - OP_RIGHT
-- 
+- ...
 
 References: https://opcodeexplained.com/opcodes

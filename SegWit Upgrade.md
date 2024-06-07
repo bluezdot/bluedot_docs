@@ -1,1 +1,0 @@
-Main change: update transaction structure, increase block size, addition of new address format

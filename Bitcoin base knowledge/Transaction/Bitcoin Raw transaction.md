@@ -1,7 +1,7 @@
 Có 2 loại transaction:
 - Legacy transaction
 - SegWit transaction
-
+[[Transaction Format]]
 ## 1. Legacy transaction
 
 ### 1.1. Ví dụ 1 raw transaction:
@@ -102,6 +102,7 @@ Với
 - SegWit transaction:
 [SegWit transaction](https://learnmeabitcoin.com/technical/transaction/)
 [Multisig SegWit](https://learnmeabitcoin.com/explorer/tx/684cf742893df9f43e7f11646a3f70db05ebc673e48514b4a4b1a61f57d89a29)
+[Transaction Builder tool](https://learnmeabitcoin.com/technical/transaction/#summary)
 
 ## 4. Phụ lục (Ai đam mê thì đọc)
 1. Version?
@@ -131,5 +132,5 @@ Với
 	Ví dụ: P2WPKH: `0247{signature}21{publickey}`
 		 02 items - size: 47 - item: signature - size 21 - item: public key
 	Nếu có legacy input cùng với segwit input, phần legacy input vẫn phải có 1 witness field 00
-9. wTXID
-10. 
+9. Step create tx
+	![[Pasted image 20240603085522.png]]

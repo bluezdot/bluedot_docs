@@ -64,9 +64,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37dfd08f7aa01b51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenGov/1. OpenGov Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba8b65927e2d7a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenGov/2. OpenGov Origin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "286a77094f00c726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenGov/1. OpenGov Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -132,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenBit/API RUNES.md",
+                "file": "OpenGov/1. OpenGov Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenBit/API RUNES.md",
+                "file": "OpenGov/1. OpenGov Model.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenBit/API RUNES.md"
+                "file": "OpenGov/1. OpenGov Model.md"
               }
             }
           }
@@ -193,91 +229,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "00e9f1fd9163dd14",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2e413eb2b76e875e",
-        "type": "window",
-        "children": [
-          {
-            "id": "4d05faa968a35a67",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a0ea648abe83998b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bitcoin base knowledge/Transaction/Bitcoin Raw transaction.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 987,
-        "y": 155,
-        "width": 1458,
-        "height": 1055,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "03c463fe3b93ba11",
+  "active": "286a77094f00c726",
   "lastOpenFiles": [
-    "Bitcoin base knowledge/Transaction/Bitcoin Raw transaction.md",
-    "Excalidraw/Transaction Format.md",
-    "Bitcoin base knowledge/Transaction/Bitcoin Fee.md",
-    "Excalidraw/Drawing 2024-05-31 11.58.20.excalidraw.md",
-    "Bitcoin base knowledge/OPCODE.md",
-    "Bitcoin base knowledge/Transaction/Sequence & Locktime.md",
-    "minimum fee.md",
+    "OpenGov/4. OpenGov vs. Governance V1.md",
+    "OpenGov/5. Approval & Support Curve.md",
+    "6ff28bf6599b4477bbb1406741218bf2?pvs=25.md",
+    "OpenGov/1. OpenGov Model.md",
+    "Pasted image 20240607185939.png",
+    "OpenGov/3. Polkadot Technical Fellowship (PTF).md",
+    "OpenGov/2. OpenGov Origin.md",
+    "Pasted image 20240607180558.png",
+    "Thuật toán decode runestone.md",
+    "Research transfer Rune & BRC-20.md",
+    "README.md",
+    "Script - Cơ chế lock & unlock UTXOs.md",
+    "Proxy API.md",
+    "Images/Pasted image 20240607145146.png",
+    "Images/Pasted image 20240607145112.png",
+    "Images/Pasted image 20240607145103.png",
+    "Images/Pasted image 20240607145006.png",
+    "Images/Pasted image 20240607144945.png",
+    "OpenBit/API RUNES.md",
+    "OpenGov",
     "Bitcoin base knowledge/Transaction/Bitcoin Block size.md",
-    "Pasted image 20240531162536.png",
-    "2024-05-31.md",
-    "Untitled.canvas",
+    "Bitcoin base knowledge/Transaction/Bitcoin Fee.md",
+    "Bitcoin base knowledge/Transaction/Bitcoin Raw transaction.md",
     "Bytes & Units.md",
-    "Excalidraw/Send Runes.md",
-    "Bitcoin base knowledge/Transaction/Cách decode transaction hash -> raw transaction.md",
-    "Chainlist - Runes & BRC20.md",
     "Blobscriptions.md",
     "Các tiêu chí đánh giá Rune, BRC20.md",
-    "Staking/Trạng thái active của Manta collator.md",
-    "Staking/Withdrawal time.md",
-    "Staking/Recommend chọn collator.md",
-    "Staking/Krest staking.md",
-    "Staking/Giới hạn member khi stake vào pool.md",
-    "Staking/Enjin staking 1.md",
-    "Staking/Enjin staking.md",
-    "Polkadot Architecture/Parachain/Slot Auction.md",
-    "Polkadot Architecture/Parachain/Parachain Introduction.md",
-    "Polkadot Architecture/Parachain/Crowdloans.md",
-    "Polkadot Architecture/Consensus.md",
-    "Pasted image 20240528152326.png",
+    "Chainlist - Runes & BRC20.md",
+    "Commit-reveal protocol?.md",
+    "encode - decode runestone.md",
+    "minimum fee.md",
+    "Ordinal Products.md",
+    "Read note (UTXOs).md",
+    "TEST BALANCE.md",
     "Testing_Runes_Getting_Started_Guide_ (1).pdf",
-    "Pasted image 20240527172721.png",
-    "Pasted image 20240527112917.png",
-    "Images/Pasted image 20240524181652.png",
-    "Images/Pasted image 20240524161243.png",
-    "Images/Pasted image 20240524160022.png",
+    "Polkadot Architecture/Consensus.md",
+    "Images/Pasted image 20240603155248.png",
+    "Images/Pasted image 20240603155105.png",
+    "Images/Pasted image 20240603155009.png",
+    "Untitled.canvas",
     "Bitcoin base knowledge/Transaction",
-    "Images/Pasted image 20240523165655.png",
-    "Images/Pasted image 20240523165652.png",
-    "Images/Pasted image 20240523164807.png",
     "Bitcoin base knowledge",
     "OpenBit/OP_RETURN",
     "Polkadot Architecture",
     "Polkadot Architecture/Parachain",
     "NFT",
     "Images",
-    "OpenBit",
-    "Staking"
+    "OpenBit"
   ]
 }

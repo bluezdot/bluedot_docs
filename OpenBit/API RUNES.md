@@ -85,3 +85,11 @@ API lấy runes của address: https://mainnet-indexer-api.runealpha.xyz/address
 	"createdAt": "2024-04-20T05:09:00.170Z",
 	"updatedAt": "2024-04-23T02:06:04.857Z"
 }
+
+Thiếu API Runes:
+- Lấy tất cả rune utxos của 1 address:
+	  Input: address
+	  Output: utxos
+- Lấy rune metadata của 1 rune ID:
+	Input: runeID
+	Output: metadata

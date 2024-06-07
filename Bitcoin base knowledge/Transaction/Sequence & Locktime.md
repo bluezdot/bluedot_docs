@@ -12,7 +12,7 @@ Những thiết lập trường Sequence phổ biến:
 *Recommend*: *Lựa chọn phổ biến thường là 0xFFFFFFFD, để enable Locktime và RBF - 2 tính năng thường được sử dụng và khá hữu ích.*
 
 ## Locktime
-Tương tự Sequence, Locktime là 1 trường dữ liệu trong mọi transaction input dùng để kiểm soát điều kiện khi nào tx được phép mined.
+Tương tự Sequence, Locktime là 1 trường dữ liệu trong mọi transaction input dùng để kiểm soát điều kiện khi nào tx được phép mined (cho tới 1 block height/timestamp).
 - Nếu set Sequence = 0xFFFFFFFF (max) cho tất cả input, tx đó sẽ được coi là đã ở trạng thái 'final' và không thể thay thế hay ngăn chặn việc được mined.
 - Nếu set 1 Sequence bất kì < 0xFFFFFFFF (hay <= 0xFFFFFFFE), tx sẽ không ở trạng thái final và có thể sử dụng locktime field
 

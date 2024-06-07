@@ -7,8 +7,8 @@ Một block có giới hạn 4,000,000 weight units = Block Header + Tổng tran
 
 ## Các cách đo lường
 1. Bytes: Sử dụng phổ biến trong máy tính
-2. Weight Units
-	WU và VB sử dụng trong bitcoin blockchain để giảm độ lớn cho 1 số phần trong transaction data và được sử dụng khi tính toán lượng transactions có thể fit block cũng như tính fee.
+2. Weight Units (WU)
+	WU và VB (mục dưới) sử dụng trong bitcoin blockchain để giảm độ lớn cho 1 số phần trong transaction data và được sử dụng khi tính toán lượng transactions có thể fit block cũng như tính fee.
 	![[Pasted image 20240524160022.png]]
 	
 | Field    | Multiplier |
@@ -21,7 +21,7 @@ Một block có giới hạn 4,000,000 weight units = Block Header + Tổng tran
 | witness  | x1         |
 | locktime | x4         |
 
-3. Virtual Bytes: Tương tự WU. Nhưng tất cả chia 4.
+3. Virtual Bytes (VB): Tương tự WU. Nhưng tất cả chia 4.
    Cụ thể: 
 
 | Field    | Multiplier |
@@ -36,3 +36,4 @@ Một block có giới hạn 4,000,000 weight units = Block Header + Tổng tran
 
 Lý do phần witness data được tính với độ lớn ít hơn là gì? 
 - Điều này giúp cần bằng hơn giữa chi phí tạo output và chi phí sử dụng output. Phần witness data chính là phần dữ liệu để sử dụng output (signature).
+![[Pasted image 20240603111356.png]]
