@@ -93,16 +93,24 @@
             "id": "286a77094f00c726",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "OpenGov/1. OpenGov Model.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20240607185939.png"
+              }
+            }
+          },
+          {
+            "id": "c2e7ee5645698e2d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20240607180558.png"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGov/1. OpenGov Model.md",
+                "file": "Images/Pasted image 20240607180558.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGov/1. OpenGov Model.md",
+                "file": "Images/Pasted image 20240607180558.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGov/1. OpenGov Model.md"
+                "file": "Images/Pasted image 20240607180558.png"
               }
             }
           }
@@ -229,16 +237,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "286a77094f00c726",
+  "active": "c2e7ee5645698e2d",
   "lastOpenFiles": [
+    "Images/Pasted image 20240607185939.png",
+    "OpenGov/1. OpenGov Model.md",
     "OpenGov/4. OpenGov vs. Governance V1.md",
     "OpenGov/5. Approval & Support Curve.md",
     "6ff28bf6599b4477bbb1406741218bf2?pvs=25.md",
-    "OpenGov/1. OpenGov Model.md",
-    "Pasted image 20240607185939.png",
     "OpenGov/3. Polkadot Technical Fellowship (PTF).md",
     "OpenGov/2. OpenGov Origin.md",
-    "Pasted image 20240607180558.png",
+    "Images/Pasted image 20240607180558.png",
     "Thuật toán decode runestone.md",
     "Research transfer Rune & BRC-20.md",
     "README.md",
@@ -265,7 +273,6 @@
     "Read note (UTXOs).md",
     "TEST BALANCE.md",
     "Testing_Runes_Getting_Started_Guide_ (1).pdf",
-    "Polkadot Architecture/Consensus.md",
     "Images/Pasted image 20240603155248.png",
     "Images/Pasted image 20240603155105.png",
     "Images/Pasted image 20240603155009.png",
