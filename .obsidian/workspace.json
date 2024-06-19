@@ -139,12 +139,30 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 19.22.15.excalidraw.md"
+                "file": "Excalidraw/health check.md"
+              }
+            }
+          },
+          {
+            "id": "67063462af06e0c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc88760cc5e589a0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/inscription balance.md"
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -210,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 19.22.15.excalidraw.md",
+                "file": "Excalidraw/inscription balance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 19.22.15.excalidraw.md",
+                "file": "Excalidraw/inscription balance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 19.22.15.excalidraw.md"
+                "file": "Excalidraw/inscription balance.md"
               }
             }
           }
@@ -271,16 +289,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "945378e1bbdb5ed4",
+  "active": "cc88760cc5e589a0",
   "lastOpenFiles": [
+    "Pasted Image 20240619142657_145.png",
+    "Pasted Image 20240619142120_983.png",
+    "Pasted Image 20240619141803_898.png",
+    "Excalidraw/Drawing 2024-05-31 11.58.20.excalidraw.md",
+    "Excalidraw/inscription balance.md",
+    "Excalidraw/health check.md",
+    "OpenBit/API RUNES.md",
+    "Inscription collection.md",
+    "Pasted image 20240617154215.png",
+    "Pasted image 20240617095526.png",
+    "Pasted Image 20240614102152_099.png",
     "Pasted Image 20240612193020_654.png",
-    "Excalidraw/Drawing 2024-06-12 19.22.15.excalidraw.md",
     "Pasted Image 20240612192956_491.png",
     "Pasted Image 20240612192941_478.png",
     "Excalidraw/Send Runes.md",
     "Excalidraw/Transaction Format.md",
-    "Excalidraw/Drawing 2024-05-31 11.58.20.excalidraw.md",
-    "OpenBit/API RUNES.md",
     "[[4..md",
     "OpenGov/1. OpenGov Model.md",
     "OpenGov/2. OpenGov Origin.md",
@@ -296,19 +322,12 @@
     "README.md",
     "Script - Cơ chế lock & unlock UTXOs.md",
     "Proxy API.md",
-    "Images/Pasted image 20240607145146.png",
-    "Images/Pasted image 20240607145112.png",
-    "Images/Pasted image 20240607145103.png",
-    "Images/Pasted image 20240607145006.png",
-    "Images/Pasted image 20240607144945.png",
     "OpenGov",
     "Bitcoin base knowledge/Transaction/Bitcoin Block size.md",
     "Bitcoin base knowledge/Transaction/Bitcoin Fee.md",
     "Bitcoin base knowledge/Transaction/Bitcoin Raw transaction.md",
     "Bytes & Units.md",
     "Blobscriptions.md",
-    "Các tiêu chí đánh giá Rune, BRC20.md",
-    "Chainlist - Runes & BRC20.md",
     "Testing_Runes_Getting_Started_Guide_ (1).pdf",
     "Untitled.canvas",
     "Bitcoin base knowledge/Transaction",
