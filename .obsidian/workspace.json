@@ -157,7 +157,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/inscription balance.md"
+                "file": "Excalidraw/health check.md"
               }
             }
           }
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/inscription balance.md",
+                "file": "Excalidraw/health check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/inscription balance.md",
+                "file": "Excalidraw/health check.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/inscription balance.md"
+                "file": "Excalidraw/health check.md"
               }
             }
           }
@@ -291,11 +291,11 @@
   },
   "active": "cc88760cc5e589a0",
   "lastOpenFiles": [
+    "Excalidraw/inscription balance.md",
     "Pasted Image 20240619142657_145.png",
     "Pasted Image 20240619142120_983.png",
     "Pasted Image 20240619141803_898.png",
     "Excalidraw/Drawing 2024-05-31 11.58.20.excalidraw.md",
-    "Excalidraw/inscription balance.md",
     "Excalidraw/health check.md",
     "OpenBit/API RUNES.md",
     "Inscription collection.md",
@@ -313,7 +313,6 @@
     "OpenGov/6. APIs.md",
     "OpenGov/5. Approval & Support Curve.md",
     "Images/Pasted image 20240607180558.png",
-    "Images/Pasted image 20240607185939.png",
     "OpenGov/4. OpenGov vs. Governance V1.md",
     "6ff28bf6599b4477bbb1406741218bf2?pvs=25.md",
     "OpenGov/3. Polkadot Technical Fellowship (PTF).md",
