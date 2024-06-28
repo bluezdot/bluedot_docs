@@ -93,3 +93,12 @@ Thiếu API Runes:
 - Lấy rune metadata của 1 rune ID:
 	Input: runeID
 	Output: metadata
+
+
+- chainlist (done).
+- price, logo (chainlist openbit) (done).
+- inscription (done).
+
+
+
+- bifrost dot: wss://eu.bifrost-polkadot-rpc.liebi.com/ws

@@ -160,9 +160,63 @@
                 "file": "Excalidraw/health check.md"
               }
             }
+          },
+          {
+            "id": "22b9656978782c4d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Transaction Format.md"
+              }
+            }
+          },
+          {
+            "id": "a9e4afca14e63a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenBit/UI_Inscription.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e499af799ac2a398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Release assets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa19c1164a6dbae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-22 18.47.17.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c8a89474860df151",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Flow Send Transaction.md"
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -228,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/health check.md",
+                "file": "Excalidraw/Flow Send Transaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/health check.md",
+                "file": "Excalidraw/Flow Send Transaction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/health check.md"
+                "file": "Excalidraw/Flow Send Transaction.md"
               }
             }
           }
@@ -289,15 +343,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc88760cc5e589a0",
+  "active": "c8a89474860df151",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-22 18.47.17.excalidraw.md",
+    "Excalidraw/Flow Send Transaction.md",
+    "Bitcoin base knowledge/Transaction/Bitcoin Raw transaction.md",
+    "Excalidraw/Transaction Format.md",
     "Excalidraw/inscription balance.md",
+    "Excalidraw/health check.md",
+    "OpenBit/UI_Inscription.md",
+    "Release assets.md",
+    "Excalidraw/Rune UTXOs.md",
+    "Excalidraw/Send Runes.md",
+    "OpenBit/API RUNES.md",
     "Pasted Image 20240619142657_145.png",
     "Pasted Image 20240619142120_983.png",
     "Pasted Image 20240619141803_898.png",
     "Excalidraw/Drawing 2024-05-31 11.58.20.excalidraw.md",
-    "Excalidraw/health check.md",
-    "OpenBit/API RUNES.md",
     "Inscription collection.md",
     "Pasted image 20240617154215.png",
     "Pasted image 20240617095526.png",
@@ -305,8 +367,6 @@
     "Pasted Image 20240612193020_654.png",
     "Pasted Image 20240612192956_491.png",
     "Pasted Image 20240612192941_478.png",
-    "Excalidraw/Send Runes.md",
-    "Excalidraw/Transaction Format.md",
     "[[4..md",
     "OpenGov/1. OpenGov Model.md",
     "OpenGov/2. OpenGov Origin.md",
@@ -322,11 +382,6 @@
     "Script - Cơ chế lock & unlock UTXOs.md",
     "Proxy API.md",
     "OpenGov",
-    "Bitcoin base knowledge/Transaction/Bitcoin Block size.md",
-    "Bitcoin base knowledge/Transaction/Bitcoin Fee.md",
-    "Bitcoin base knowledge/Transaction/Bitcoin Raw transaction.md",
-    "Bytes & Units.md",
-    "Blobscriptions.md",
     "Testing_Runes_Getting_Started_Guide_ (1).pdf",
     "Untitled.canvas",
     "Bitcoin base knowledge/Transaction",
