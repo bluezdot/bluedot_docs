@@ -209,9 +209,11 @@
             "id": "c8a89474860df151",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Flow Send Transaction.md"
+                "file": "OpenGov/6. APIs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -282,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Flow Send Transaction.md",
+                "file": "OpenGov/6. APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Flow Send Transaction.md",
+                "file": "OpenGov/6. APIs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Flow Send Transaction.md"
+                "file": "OpenGov/6. APIs.md"
               }
             }
           }
@@ -345,12 +347,18 @@
   },
   "active": "c8a89474860df151",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-22 18.47.17.excalidraw.md",
+    "OpenGov/1. OpenGov Model.md",
+    "OpenGov/2. OpenGov Origin.md",
+    "OpenGov/3. Polkadot Technical Fellowship (PTF).md",
+    "OpenGov/4. OpenGov vs. Governance V1.md",
     "Excalidraw/Flow Send Transaction.md",
+    "Excalidraw/health check.md",
+    "Excalidraw/Drawing 2024-06-22 18.47.17.excalidraw.md",
     "Bitcoin base knowledge/Transaction/Bitcoin Raw transaction.md",
+    "Bitcoin base knowledge/Transaction/Cách decode transaction hash -> raw transaction.md",
+    "Bitcoin base knowledge/Transaction/Sequence & Locktime.md",
     "Excalidraw/Transaction Format.md",
     "Excalidraw/inscription balance.md",
-    "Excalidraw/health check.md",
     "OpenBit/UI_Inscription.md",
     "Release assets.md",
     "Excalidraw/Rune UTXOs.md",
@@ -368,19 +376,13 @@
     "Pasted Image 20240612192956_491.png",
     "Pasted Image 20240612192941_478.png",
     "[[4..md",
-    "OpenGov/1. OpenGov Model.md",
-    "OpenGov/2. OpenGov Origin.md",
     "OpenGov/6. APIs.md",
     "OpenGov/5. Approval & Support Curve.md",
     "Images/Pasted image 20240607180558.png",
-    "OpenGov/4. OpenGov vs. Governance V1.md",
     "6ff28bf6599b4477bbb1406741218bf2?pvs=25.md",
-    "OpenGov/3. Polkadot Technical Fellowship (PTF).md",
     "Thuật toán decode runestone.md",
     "Research transfer Rune & BRC-20.md",
     "README.md",
-    "Script - Cơ chế lock & unlock UTXOs.md",
-    "Proxy API.md",
     "OpenGov",
     "Testing_Runes_Getting_Started_Guide_ (1).pdf",
     "Untitled.canvas",
