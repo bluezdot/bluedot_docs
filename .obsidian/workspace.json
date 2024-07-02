@@ -235,7 +235,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenBit/Token standards/SRC-20.md",
+                "file": "OpenBit/Token standards/TAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenBit/Token standards/SRC-20.md",
+                "file": "OpenBit/Token standards/TAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenBit/Token standards/SRC-20.md",
+                "file": "OpenBit/Token standards/TAP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenBit/Token standards/SRC-20.md"
+                "file": "OpenBit/Token standards/TAP.md"
               }
             }
           }
@@ -371,10 +371,10 @@
   },
   "active": "cc09d9eee9711694",
   "lastOpenFiles": [
+    "OpenBit/Token standards/Stamp.md",
     "OpenBit/Token standards/RGB++.md",
     "OpenBit/Token standards/SRC-20.md",
     "OpenBit/Token standards/TAP.md",
-    "OpenBit/Token standards/Stamp.md",
     "Excalidraw/Bitcoin Asset.md",
     "Excalidraw/Flow Send Transaction.md",
     "Excalidraw/Rune UTXOs.md",

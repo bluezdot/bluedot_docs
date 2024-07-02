@@ -1,1 +1,2 @@
 - [TAP protocol specification](https://github.com/Trac-Systems/tap-protocol-specs)
+- [Tap Reader API | OrdinalsBot Docs](https://docs.ordinalsbot.com/tap-protocol/tap-reader-api)
