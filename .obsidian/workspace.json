@@ -184,18 +184,6 @@
             }
           },
           {
-            "id": "e499af799ac2a398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Release assets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cfa19c1164a6dbae",
             "type": "leaf",
             "state": {
@@ -235,14 +223,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenBit/Token standards/TAP.md",
+                "file": "Script - Cơ chế lock & unlock UTXOs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -308,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenBit/Token standards/TAP.md",
+                "file": "Script - Cơ chế lock & unlock UTXOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenBit/Token standards/TAP.md",
+                "file": "Script - Cơ chế lock & unlock UTXOs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenBit/Token standards/TAP.md"
+                "file": "Script - Cơ chế lock & unlock UTXOs.md"
               }
             }
           }
@@ -371,45 +359,45 @@
   },
   "active": "cc09d9eee9711694",
   "lastOpenFiles": [
+    "README.md",
+    "Proxy API.md",
+    "Inscription collection.md",
+    "Blobscriptions.md",
+    "Bytes & Units.md",
+    "Commit-reveal protocol?.md",
+    "Ordinal Products.md",
+    "minimum fee.md",
+    "Read note (UTXOs).md",
+    "[[4..md",
+    "6ff28bf6599b4477bbb1406741218bf2?pvs=25.md",
+    "2024-05-31.md",
+    "Các tiêu chí đánh giá Rune, BRC20.md",
+    "Chainlist - Runes & BRC20.md",
+    "encode - decode runestone.md",
+    "Research transfer Rune & BRC-20.md",
+    "Release assets.md",
+    "Script - Cơ chế lock & unlock UTXOs.md",
+    "Images/Testing_Runes_Getting_Started_Guide_ (1).pdf",
+    "TEST BALANCE.md",
+    "Thuật toán decode runestone.md",
+    "Images/Pasted Image 20240612192941_478.png",
     "OpenBit/Token standards/Stamp.md",
-    "OpenBit/Token standards/RGB++.md",
     "OpenBit/Token standards/SRC-20.md",
     "OpenBit/Token standards/TAP.md",
+    "OpenBit/Token standards/RGB++.md",
     "Excalidraw/Bitcoin Asset.md",
     "Excalidraw/Flow Send Transaction.md",
-    "Excalidraw/Rune UTXOs.md",
-    "Excalidraw/Inscription relationship.md",
     "OpenBit/Token standards",
-    "OpenGov/6. APIs.md",
-    "OpenGov/1. OpenGov Model.md",
-    "OpenGov/2. OpenGov Origin.md",
-    "OpenGov/3. Polkadot Technical Fellowship (PTF).md",
-    "OpenGov/4. OpenGov vs. Governance V1.md",
-    "Excalidraw/health check.md",
-    "Bitcoin base knowledge/Transaction/Bitcoin Raw transaction.md",
-    "Bitcoin base knowledge/Transaction/Cách decode transaction hash -> raw transaction.md",
-    "Bitcoin base knowledge/Transaction/Sequence & Locktime.md",
-    "Excalidraw/Transaction Format.md",
-    "Excalidraw/inscription balance.md",
-    "OpenBit/UI_Inscription.md",
-    "Release assets.md",
-    "Excalidraw/Send Runes.md",
-    "OpenBit/API RUNES.md",
-    "Pasted Image 20240619142657_145.png",
-    "Pasted Image 20240619142120_983.png",
-    "Pasted Image 20240619141803_898.png",
-    "Excalidraw/Drawing 2024-05-31 11.58.20.excalidraw.md",
-    "Inscription collection.md",
-    "Pasted image 20240617154215.png",
-    "Pasted image 20240617095526.png",
-    "Pasted Image 20240614102152_099.png",
-    "Pasted Image 20240612193020_654.png",
-    "Pasted Image 20240612192956_491.png",
-    "Pasted Image 20240612192941_478.png",
-    "[[4..md",
+    "Images/Pasted Image 20240619142657_145.png",
+    "Images/Pasted Image 20240619142120_983.png",
+    "Images/Pasted Image 20240619141803_898.png",
+    "Images/Pasted image 20240617154215.png",
+    "Images/Pasted image 20240617095526.png",
+    "Images/Pasted Image 20240614102152_099.png",
+    "Images/Pasted Image 20240612193020_654.png",
+    "Images/Pasted Image 20240612192956_491.png",
     "Images/Pasted image 20240607180558.png",
     "OpenGov",
-    "Testing_Runes_Getting_Started_Guide_ (1).pdf",
     "Untitled.canvas",
     "Bitcoin base knowledge/Transaction",
     "Bitcoin base knowledge",
