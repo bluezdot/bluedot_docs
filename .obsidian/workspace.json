@@ -201,7 +201,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-22 18.47.17.excalidraw.md"
+                "file": "Excalidraw/Inscription relationship.md"
               }
             }
           },
@@ -216,9 +216,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e7c049fc389183a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenBit/Token standards/Stamp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc09d9eee9711694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenBit/Token standards/SRC-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -284,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGov/6. APIs.md",
+                "file": "OpenBit/Token standards/SRC-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGov/6. APIs.md",
+                "file": "OpenBit/Token standards/SRC-20.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGov/6. APIs.md"
+                "file": "OpenBit/Token standards/SRC-20.md"
               }
             }
           }
@@ -345,15 +369,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c8a89474860df151",
+  "active": "cc09d9eee9711694",
   "lastOpenFiles": [
+    "OpenBit/Token standards/RGB++.md",
+    "OpenBit/Token standards/SRC-20.md",
+    "OpenBit/Token standards/TAP.md",
+    "OpenBit/Token standards/Stamp.md",
+    "Excalidraw/Bitcoin Asset.md",
+    "Excalidraw/Flow Send Transaction.md",
+    "Excalidraw/Rune UTXOs.md",
+    "Excalidraw/Inscription relationship.md",
+    "OpenBit/Token standards",
+    "OpenGov/6. APIs.md",
     "OpenGov/1. OpenGov Model.md",
     "OpenGov/2. OpenGov Origin.md",
     "OpenGov/3. Polkadot Technical Fellowship (PTF).md",
     "OpenGov/4. OpenGov vs. Governance V1.md",
-    "Excalidraw/Flow Send Transaction.md",
     "Excalidraw/health check.md",
-    "Excalidraw/Drawing 2024-06-22 18.47.17.excalidraw.md",
     "Bitcoin base knowledge/Transaction/Bitcoin Raw transaction.md",
     "Bitcoin base knowledge/Transaction/Cách decode transaction hash -> raw transaction.md",
     "Bitcoin base knowledge/Transaction/Sequence & Locktime.md",
@@ -361,7 +393,6 @@
     "Excalidraw/inscription balance.md",
     "OpenBit/UI_Inscription.md",
     "Release assets.md",
-    "Excalidraw/Rune UTXOs.md",
     "Excalidraw/Send Runes.md",
     "OpenBit/API RUNES.md",
     "Pasted Image 20240619142657_145.png",
@@ -376,13 +407,7 @@
     "Pasted Image 20240612192956_491.png",
     "Pasted Image 20240612192941_478.png",
     "[[4..md",
-    "OpenGov/6. APIs.md",
-    "OpenGov/5. Approval & Support Curve.md",
     "Images/Pasted image 20240607180558.png",
-    "6ff28bf6599b4477bbb1406741218bf2?pvs=25.md",
-    "Thuật toán decode runestone.md",
-    "Research transfer Rune & BRC-20.md",
-    "README.md",
     "OpenGov",
     "Testing_Runes_Getting_Started_Guide_ (1).pdf",
     "Untitled.canvas",
@@ -392,7 +417,6 @@
     "Polkadot Architecture",
     "Polkadot Architecture/Parachain",
     "NFT",
-    "Images",
-    "OpenBit"
+    "Images"
   ]
 }
