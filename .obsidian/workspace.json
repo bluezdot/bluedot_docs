@@ -228,9 +228,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91bc45640ba08761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Price Impact.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -296,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script - Cơ chế lock & unlock UTXOs.md",
+                "file": "Price Impact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script - Cơ chế lock & unlock UTXOs.md",
+                "file": "Price Impact.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -336,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script - Cơ chế lock & unlock UTXOs.md"
+                "file": "Price Impact.md"
               }
             }
           }
@@ -357,8 +369,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc09d9eee9711694",
+  "active": "91bc45640ba08761",
   "lastOpenFiles": [
+    "Script - Cơ chế lock & unlock UTXOs.md",
+    "Price Impact.md",
     "README.md",
     "Proxy API.md",
     "Inscription collection.md",
@@ -376,7 +390,6 @@
     "encode - decode runestone.md",
     "Research transfer Rune & BRC-20.md",
     "Release assets.md",
-    "Script - Cơ chế lock & unlock UTXOs.md",
     "Images/Testing_Runes_Getting_Started_Guide_ (1).pdf",
     "TEST BALANCE.md",
     "Thuật toán decode runestone.md",
@@ -386,7 +399,6 @@
     "OpenBit/Token standards/TAP.md",
     "OpenBit/Token standards/RGB++.md",
     "Excalidraw/Bitcoin Asset.md",
-    "Excalidraw/Flow Send Transaction.md",
     "OpenBit/Token standards",
     "Images/Pasted Image 20240619142657_145.png",
     "Images/Pasted Image 20240619142120_983.png",
