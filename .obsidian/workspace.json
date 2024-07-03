@@ -235,7 +235,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Price Impact.md",
+                "file": "OpenBit/BRC-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Price Impact.md",
+                "file": "OpenBit/BRC-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +325,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Price Impact.md",
+                "file": "OpenBit/BRC-20.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -348,7 +348,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Price Impact.md"
+                "file": "OpenBit/BRC-20.md"
               }
             }
           }
@@ -371,34 +371,34 @@
   },
   "active": "91bc45640ba08761",
   "lastOpenFiles": [
-    "Script - Cơ chế lock & unlock UTXOs.md",
+    "OpenBit/Runes Explorer.md",
+    "OpenBit/Runes.md",
+    "OpenBit/Inscriptions.md",
+    "OpenBit/Decipher Runestones (Giải mã).md",
+    "OpenBit/BRC-20.md",
     "Price Impact.md",
-    "README.md",
-    "Proxy API.md",
-    "Inscription collection.md",
-    "Blobscriptions.md",
-    "Bytes & Units.md",
-    "Commit-reveal protocol?.md",
-    "Ordinal Products.md",
-    "minimum fee.md",
-    "Read note (UTXOs).md",
-    "[[4..md",
-    "6ff28bf6599b4477bbb1406741218bf2?pvs=25.md",
-    "2024-05-31.md",
-    "Các tiêu chí đánh giá Rune, BRC20.md",
-    "Chainlist - Runes & BRC20.md",
-    "encode - decode runestone.md",
-    "Research transfer Rune & BRC-20.md",
-    "Release assets.md",
-    "Images/Testing_Runes_Getting_Started_Guide_ (1).pdf",
-    "TEST BALANCE.md",
-    "Thuật toán decode runestone.md",
-    "Images/Pasted Image 20240612192941_478.png",
+    "OpenBit/Token standards/TAP.md",
     "OpenBit/Token standards/Stamp.md",
     "OpenBit/Token standards/SRC-20.md",
-    "OpenBit/Token standards/TAP.md",
     "OpenBit/Token standards/RGB++.md",
+    "Excalidraw/Inscription relationship.md",
+    "OpenGov/6. APIs.md",
+    "OpenGov/5. Approval & Support Curve.md",
+    "OpenGov/4. OpenGov vs. Governance V1.md",
+    "OpenGov/3. Polkadot Technical Fellowship (PTF).md",
+    "OpenGov/2. OpenGov Origin.md",
+    "OpenGov/1. OpenGov Model.md",
+    "Excalidraw/Transaction Format.md",
     "Excalidraw/Bitcoin Asset.md",
+    "Excalidraw/health check.md",
+    "Excalidraw/inscription balance.md",
+    "Excalidraw/Flow Send Transaction.md",
+    "Excalidraw/Rune UTXOs.md",
+    "Excalidraw/Send Runes.md",
+    "Script - Cơ chế lock & unlock UTXOs.md",
+    "README.md",
+    "Images/Testing_Runes_Getting_Started_Guide_ (1).pdf",
+    "Images/Pasted Image 20240612192941_478.png",
     "OpenBit/Token standards",
     "Images/Pasted Image 20240619142657_145.png",
     "Images/Pasted Image 20240619142120_983.png",
