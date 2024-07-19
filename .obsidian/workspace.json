@@ -1,224 +1,22 @@
 {
   "main": {
-    "id": "b09f8bde139e85e2",
+    "id": "cea0db56a390f8ee",
     "type": "split",
     "children": [
       {
-        "id": "0d3573b61c942d28",
+        "id": "6126ed5e3cbaffaa",
         "type": "tabs",
         "children": [
           {
-            "id": "70d5a70b27f393f4",
+            "id": "9979d725c3446a53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research transfer Rune & BRC-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d2a192a908df386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blobscriptions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31f822dae068ef26",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Send Runes.md"
-              }
-            }
-          },
-          {
-            "id": "9411364e9e7d01ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bitcoin base knowledge/Transaction/Bitcoin Fee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03c463fe3b93ba11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenBit/API RUNES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37dfd08f7aa01b51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenGov/1. OpenGov Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba8b65927e2d7a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenGov/2. OpenGov Origin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "286a77094f00c726",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20240607185939.png"
-              }
-            }
-          },
-          {
-            "id": "c2e7ee5645698e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenGov/1. OpenGov Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48d450ab028e3d4d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
-          },
-          {
-            "id": "00debf850422d8aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenBit/API RUNES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "945378e1bbdb5ed4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/health check.md"
-              }
-            }
-          },
-          {
-            "id": "67063462af06e0c3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "cc88760cc5e589a0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/health check.md"
-              }
-            }
-          },
-          {
-            "id": "22b9656978782c4d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Transaction Format.md"
-              }
-            }
-          },
-          {
-            "id": "a9e4afca14e63a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenBit/UI_Inscription.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfa19c1164a6dbae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Inscription relationship.md"
-              }
-            }
-          },
-          {
-            "id": "c8a89474860df151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenGov/6. APIs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e7c049fc389183a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenBit/Token standards/Stamp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc09d9eee9711694",
+            "id": "d7fc81e07555da36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -228,38 +26,23 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "91bc45640ba08761",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b163373fd7321b4b",
+    "id": "cd693f390e170e12",
     "type": "split",
     "children": [
       {
-        "id": "642c5cdd363e0d27",
+        "id": "b9f8365474d3e5e2",
         "type": "tabs",
         "children": [
           {
-            "id": "6fac559a927c4dab",
+            "id": "a780e73b43a62d41",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -269,7 +52,7 @@
             }
           },
           {
-            "id": "3b685231523a0b43",
+            "id": "eca0af04c769679b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -284,7 +67,7 @@
             }
           },
           {
-            "id": "023b5ffc8518bf21",
+            "id": "f1701becbc088fcd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -295,47 +78,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300
   },
   "right": {
-    "id": "2d1ebd70bb0f2943",
+    "id": "f09bbd8d3b0e4821",
     "type": "split",
     "children": [
       {
-        "id": "6ba8f0d6f98899b0",
+        "id": "0176da75f70367c0",
         "type": "tabs",
         "children": [
           {
-            "id": "84b39ba9f5679950",
+            "id": "fb90b2d57758ba27",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Script - Cơ chế lock & unlock UTXOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "dddf474509890b69",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Untitled.canvas",
-                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4033ebf36e24d0bb",
+            "id": "678b77ab7a73ec15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Script - Cơ chế lock & unlock UTXOs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "158893be3657ce2a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -346,12 +129,12 @@
             }
           },
           {
-            "id": "afdc1cd46b458a48",
+            "id": "c7b9e895b0a7da36",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Script - Cơ chế lock & unlock UTXOs.md"
               }
             }
           }
@@ -359,66 +142,67 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "91bc45640ba08761",
+  "active": "d7fc81e07555da36",
   "lastOpenFiles": [
     "Untitled.canvas",
-    "OpenGov/4. OpenGov vs. Governance V1.md",
-    "OpenBit/Token standards/RGB++.md",
-    "2024-07-06.md",
-    "OpenBit/Token standards/Stamp.md",
-    "OpenBit/Token standards/SRC-20.md",
-    "OpenBit/Token standards/ARC20.md",
-    "OpenBit/Token standards/ORC20.md",
-    "Pasted image 20240705103727.png",
-    "OpenBit/BRC-20.md",
-    "OpenBit/Runes Explorer.md",
-    "OpenBit/Runes.md",
-    "OpenBit/Inscriptions.md",
-    "OpenBit/Decipher Runestones (Giải mã).md",
+    "Script - Cơ chế lock & unlock UTXOs.md",
+    "Research transfer Rune & BRC-20.md",
+    "README.md",
+    "Proxy API.md",
     "Price Impact.md",
-    "OpenBit/Token standards/TAP.md",
-    "Excalidraw/Inscription relationship.md",
+    "Ordinal Products.md",
+    "Inscription collection.md",
+    "Commit-reveal protocol?.md",
+    "Bytes & Units.md",
+    "Blobscriptions.md",
+    "Images/Pasted image 20240705103727.png",
+    "Chainlist/Add network + native asset.md",
+    "Chainlist",
+    "Staking/Withdrawal time.md",
+    "Staking/Trạng thái active của Manta collator.md",
+    "Staking/Recommend chọn collator.md",
+    "Staking/Krest staking.md",
+    "Staking/Giới hạn member khi stake vào pool.md",
+    "Staking/Enjin staking.md",
+    "Staking/Enjin staking 1.md",
+    "Staking",
+    "Polkadot Architecture/Parachain/Slot Auction.md",
+    "Polkadot Architecture/Parachain/Parachain Introduction.md",
+    "Polkadot Architecture/Parachain/Crowdloans.md",
+    "Polkadot Architecture/Parachain",
+    "Polkadot Architecture/Consensus.md",
+    "Polkadot Architecture",
     "OpenGov/6. APIs.md",
     "OpenGov/5. Approval & Support Curve.md",
-    "OpenGov/3. Polkadot Technical Fellowship (PTF).md",
-    "OpenGov/2. OpenGov Origin.md",
-    "OpenGov/1. OpenGov Model.md",
-    "Excalidraw/Transaction Format.md",
-    "Excalidraw/Bitcoin Asset.md",
-    "Excalidraw/health check.md",
-    "Excalidraw/inscription balance.md",
-    "Excalidraw/Flow Send Transaction.md",
-    "Images/Testing_Runes_Getting_Started_Guide_ (1).pdf",
-    "Images/Pasted Image 20240612192941_478.png",
+    "OpenGov/4. OpenGov vs. Governance V1.md",
+    "OpenGov",
     "OpenBit/Token standards",
-    "Images/Pasted Image 20240619142657_145.png",
-    "Images/Pasted Image 20240619142120_983.png",
-    "Images/Pasted Image 20240619141803_898.png",
+    "OpenBit/OP_RETURN",
+    "OpenBit",
+    "NFT",
+    "Images/Testing_Runes_Getting_Started_Guide_ (1).pdf",
+    "Images/Screenshot 2024-04-10 at 16.51.38.png",
     "Images/Pasted image 20240617154215.png",
     "Images/Pasted image 20240617095526.png",
-    "Images/Pasted Image 20240614102152_099.png",
-    "Images/Pasted Image 20240612193020_654.png",
-    "Images/Pasted Image 20240612192956_491.png",
-    "OpenGov",
-    "Bitcoin base knowledge/Transaction",
-    "Bitcoin base knowledge",
-    "OpenBit/OP_RETURN",
-    "Polkadot Architecture",
-    "Polkadot Architecture/Parachain",
-    "NFT",
-    "Images"
+    "Images/Pasted image 20240607185939.png",
+    "Images/Pasted image 20240607180558.png",
+    "Images/Pasted image 20240607145146.png",
+    "Images/Pasted image 20240607145112.png",
+    "Images/Pasted image 20240607145103.png",
+    "Images/Pasted image 20240607145006.png"
   ]
 }
