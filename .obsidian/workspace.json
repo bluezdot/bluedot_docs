@@ -21,14 +21,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script - Cơ chế lock & unlock UTXOs.md",
+                "file": "TON/Basic Information.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee7458e990cfae62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TON/API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94220c38d4194d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TON/Address.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f764f0545e0e730",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "TON/Token/TON Blockchain tokens.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script - Cơ chế lock & unlock UTXOs.md",
+                "file": "TON/Token/TON Blockchain tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script - Cơ chế lock & unlock UTXOs.md",
+                "file": "TON/Token/TON Blockchain tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script - Cơ chế lock & unlock UTXOs.md"
+                "file": "TON/Token/TON Blockchain tokens.md"
               }
             }
           }
@@ -156,45 +190,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7fc81e07555da36",
+  "active": "5f764f0545e0e730",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "TON/Token/TEP-74 (Jettons standard).md",
+    "TON/Token/TON Blockchain tokens.md",
+    "TON/Programming Language.md",
+    "TON/Ton vs TonWeb.md",
+    "TON/Token/Toncoin - Native token.md",
+    "TON/API.md",
+    "TON/Basic Information.md",
+    "TON/Note to read.md",
+    "TON/Token/TEP-62 (NFT Standard).md",
+    "TON/Address.md",
+    "Excalidraw/Bitcoin Asset.md",
+    "TON/Token",
+    "Excalidraw/Flow Send Transaction.md",
+    "Excalidraw/health check.md",
+    "Excalidraw/inscription balance.md",
+    "Excalidraw/Inscription relationship.md",
+    "Excalidraw/Rune UTXOs.md",
+    "Excalidraw/Send Runes.md",
+    "Excalidraw/Transaction Format.md",
+    "Bytes & Units.md",
+    "Inscription collection.md",
+    "Ordinal Products.md",
+    "Commit-reveal protocol?.md",
+    "Price Impact.md",
+    "Proxy API.md",
     "Script - Cơ chế lock & unlock UTXOs.md",
     "Research transfer Rune & BRC-20.md",
-    "README.md",
-    "Proxy API.md",
-    "Price Impact.md",
-    "Ordinal Products.md",
-    "Inscription collection.md",
-    "Commit-reveal protocol?.md",
-    "Bytes & Units.md",
-    "Blobscriptions.md",
+    "TON",
+    "Untitled.canvas",
     "Images/Pasted image 20240705103727.png",
-    "Chainlist/Add network + native asset.md",
     "Chainlist",
-    "Staking/Withdrawal time.md",
-    "Staking/Trạng thái active của Manta collator.md",
-    "Staking/Recommend chọn collator.md",
-    "Staking/Krest staking.md",
-    "Staking/Giới hạn member khi stake vào pool.md",
-    "Staking/Enjin staking.md",
-    "Staking/Enjin staking 1.md",
     "Staking",
-    "Polkadot Architecture/Parachain/Slot Auction.md",
-    "Polkadot Architecture/Parachain/Parachain Introduction.md",
-    "Polkadot Architecture/Parachain/Crowdloans.md",
     "Polkadot Architecture/Parachain",
-    "Polkadot Architecture/Consensus.md",
     "Polkadot Architecture",
-    "OpenGov/6. APIs.md",
-    "OpenGov/5. Approval & Support Curve.md",
-    "OpenGov/4. OpenGov vs. Governance V1.md",
     "OpenGov",
     "OpenBit/Token standards",
     "OpenBit/OP_RETURN",
     "OpenBit",
-    "NFT",
-    "Images/Testing_Runes_Getting_Started_Guide_ (1).pdf",
     "Images/Screenshot 2024-04-10 at 16.51.38.png",
     "Images/Pasted image 20240617154215.png",
     "Images/Pasted image 20240617095526.png",
