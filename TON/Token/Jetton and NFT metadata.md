@@ -1,0 +1,2 @@
+- https://github.com/ton-blockchain/TEPs/blob/master/text/0064-token-data-standard.md
+- https://docs.ton.org/develop/dapps/asset-processing/metadata

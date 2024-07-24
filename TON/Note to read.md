@@ -9,7 +9,10 @@
 	Without seqno (or another mechanism to prevent Replay Attacks), anyone (usually the receiver of funds) can read the transaction data (for example from blockchain explorers) and create another fake transaction and resend it to the original wallet smart contract and force it to resend TON once more, ultimately draining all of its funds.[](https://answers.ton.org/signin?returnto=/question/1533191849462730752/what-is-seqno)
 4. Bounceable and Non-bounceable
 	 https://answers.ton.org/question/1543112814917324800
-5. Shard
-6. internalMessage & externalMessage
-7. Cell & Bag of Cells (BoC)
-8. TL-B (Type Language - Binary)
+
+	New wallet has no code -> Không xử lí được incoming message -> Cần sử dụng non-bounce mode khi gửi. Các trường hợp khác nên gửi bounce mode.
+1. Shard
+2. internalMessage & externalMessage
+3. Cell & Bag of Cells (BoC)
+4. TL-B (Type Language - Binary)
+5. ADNL (Network protocol between nodes)
