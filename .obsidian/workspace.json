@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TON/API.md",
+                "file": "TON/Developing/API/API.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,14 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TON/Cells - Data Storage.md",
+                "file": "TON/Transaction/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01e5f066b12adf2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TON/Developing/API/API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TON/Cells - Data Storage.md",
+                "file": "TON/Developing/API/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TON/Cells - Data Storage.md",
+                "file": "TON/Developing/API/API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TON/Cells - Data Storage.md"
+                "file": "TON/Developing/API/API.md"
               }
             }
           }
@@ -204,54 +216,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bead222cd41d4f52",
+  "active": "01e5f066b12adf2e",
   "lastOpenFiles": [
-    "Pasted image 20240724190346.png",
-    "TON/Address/TEP-2 TON Address.md",
-    "TON/Cells - Data Storage.md",
+    "TON/Developing/API",
     "TON/Address/Address.md",
-    "TON/Address",
-    "TON/Token/TON Blockchain tokens.md",
-    "TON/Note to read.md",
-    "TON/API.md",
-    "TON/Basic Information.md",
-    "TON/Ton overflow.md",
-    "TON/Storage Fee.md",
     "TON/Ton vs TonWeb.md",
+    "TON/Note to read.md",
     "TON/Sharding.md",
-    "TON/Token/TEP-74 (Jettons standard).md",
-    "TON/Token/TEP-62 (NFT Standard).md",
-    "TON/Token/Jetton and NFT metadata.md",
-    "Pasted Image 20240722181918_085.png",
-    "Pasted Image 20240722181847_063.png",
-    "TON/Token/Toncoin - Native token.md",
-    "Pasted Image 20240722175338_011.png",
     "TON/Developing/Programming Language.md",
-    "TON/Developing/1. TonHelloWorld - Wallet.md",
-    "TON/Developing/2. TonHelloWorld - Contract.md",
+    "TON/Ton overflow.md",
+    "TON/Basic Information.md",
+    "TON/Roadmap.md",
+    "TON/Wallet/Wallet.md",
+    "TON/Transaction/Ton transaction.md",
+    "TON/Transaction/Transaction.md",
+    "TON/Developing/API/API.md",
+    "TON/Transaction/Logical time - Lamport time (lt).md",
+    "Pasted image 20240730152903.png",
+    "TON/Transaction/Untitled.md",
+    "TON/Transaction/Storage Fee.md",
+    "TON/Token/Content Subscriptions.md",
+    "TON/Wallet",
+    "TON/Token/TEP-62 (NFT Standard).md",
+    "TON/Token/TEP-74 (Jettons standard).md",
+    "TON/Token/Toncoin - Native token.md",
+    "TON/Token/TON Blockchain tokens.md",
+    "TON/Token/Jetton and NFT metadata.md",
     "TON/Developing/4. TonHelloWorld - Testing.md",
     "TON/Developing/3. TonHelloWorld - Client.md",
+    "TON/Developing/2. TonHelloWorld - Contract.md",
+    "TON/Developing/1. TonHelloWorld - Wallet.md",
+    "TON/Transaction",
+    "TON/Blogs",
+    "Pasted image 20240725120110.png",
+    "TON/Core",
+    "Pasted image 20240724190346.png",
+    "TON/Address",
+    "Pasted Image 20240722181918_085.png",
+    "Pasted Image 20240722181847_063.png",
+    "Pasted Image 20240722175338_011.png",
     "TON/Developing",
-    "Excalidraw/Bitcoin Asset.md",
     "TON/Token",
-    "Excalidraw/Flow Send Transaction.md",
-    "Excalidraw/health check.md",
-    "Excalidraw/inscription balance.md",
-    "Excalidraw/Inscription relationship.md",
     "TON",
     "Untitled.canvas",
     "Images/Pasted image 20240705103727.png",
     "Chainlist",
     "Staking",
-    "Polkadot Architecture/Parachain",
-    "Polkadot Architecture",
-    "OpenGov",
-    "OpenBit/Token standards",
     "Images/Screenshot 2024-04-10 at 16.51.38.png",
     "Images/Pasted image 20240617154215.png",
-    "Images/Pasted image 20240617095526.png",
-    "Images/Pasted image 20240607185939.png",
-    "Images/Pasted image 20240607180558.png",
-    "Images/Pasted image 20240607145146.png"
+    "Images/Pasted image 20240617095526.png"
   ]
 }

@@ -1,3 +1,6 @@
+### Cấu hình mạng Ton
+1. https://tonviewer.com/config#20
+
 ### Cơ sở hạ tầng
 1. Explorer: https://docs.ton.org/participate/explorers
 2. Wallet: https://docs.ton.org/participate/wallets/apps
@@ -17,8 +20,14 @@
 3. https://ton.org/comparison_of_blockchains.pdf
 
 ### TonKeeper Asset List
-https://github.com/tonkeeper/ton-assets
+1. https://github.com/tonkeeper/ton-assets
 
 ### Ton research
-https://tonresear.ch/
+1. https://tonresear.ch/
 
+### RPCs
+1. https://docs.ton.org/develop/dapps/apis/getblock-ton-api
+
+
+### Roadmapp
+1. https://ton.org/en/roadmap

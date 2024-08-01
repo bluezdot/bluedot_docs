@@ -1,1 +1,0 @@
-https://answers.ton.org/

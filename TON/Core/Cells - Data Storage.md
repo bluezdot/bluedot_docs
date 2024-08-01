@@ -1,9 +1,11 @@
 - Everything in TON stored in Cells
 	- up to 1023 bits
-	- up to 4 reference to other cells
+	- up to 4 liên kết tới cells khác
 	- Kết nối theo đồ thị DAG
 
 ![[Pasted image 20240724190346.png]]
+
+- BoC (Bag of Cells): là một định dạng để chuỗi hoá cells thành byte arrays
 
 - Cell types
 	- ord
@@ -19,6 +21,8 @@
 - Serialization of data to cells
 	- Mọi object được chuỗi hoá thành Cell: message, message queue, block, whole blockchain state, contract code and data
 	- Chuỗi hoá được mô tả trong TL-B scheme
+
+	- ![[Pasted image 20240725120110.png]]
 
 Ref: 
  - https://docs.ton.org/learn/overviews/cells#serialization-of-data-to-cells

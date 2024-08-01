@@ -7,3 +7,13 @@
 | Github        | https://github.com/ton-org/ton                                                                                                                                                                                                               | https://github.com/toncenter/tonweb                                                                                                                                                                                              |
 | Development   | 80+ commits for last 4 months                                                                                                                                                                                                                | no update for last 4 months                                                                                                                                                                                                      |
 | Future        | Greater                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                  |
+
+
+TON vs. Ethereum (Temporary)
+
+| Ethereum                            | Ton          |
+| ----------------------------------- | ------------ |
+| Account-based model                 | Actor model  |
+| Synchronous                         | Asynchronous |
+| Consistent state of blockchain      |              |
+| Atomic transaction (success/failed) |              |
