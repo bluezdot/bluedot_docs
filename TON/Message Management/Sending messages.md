@@ -1,0 +1,3 @@
+- external - message: ngoài blockchain -> đến smart contract
+- internal - message: từ 1 thực thể -> thực thể khác trong blockchain
+- logs - message: từ thực thể -> ngoài blockchain

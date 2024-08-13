@@ -1,0 +1,1 @@
+https://blog.ton.org/tonkeeper-releases-huge-update#tonkeeper-battery

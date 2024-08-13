@@ -5,3 +5,5 @@
 	3. https://docs.tact-lang.org/cookbook
 3. https://docs.ton.org/develop/howto/step-by-step
 4. Ton overflow: https://answers.ton.org/
+5. Things to focus: https://docs.ton.org/develop/smart-contracts/security/things-to-focus
+6. FAQs: 

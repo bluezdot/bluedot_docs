@@ -4,91 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6126ed5e3cbaffaa",
+        "id": "273fae5c5576bd57",
         "type": "tabs",
         "children": [
           {
-            "id": "9979d725c3446a53",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d7fc81e07555da36",
+            "id": "65543a5bde0085ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TON/Basic Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee7458e990cfae62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TON/Developing/API/API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94220c38d4194d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TON/Address/Address.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f764f0545e0e730",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TON/Address/Address.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bead222cd41d4f52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TON/Transaction/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01e5f066b12adf2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TON/Developing/API/API.md",
+                "file": "TempFolder/Proxy API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TON/Developing/API/API.md",
+                "file": "TempFolder/Proxy API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TON/Developing/API/API.md",
+                "file": "TempFolder/Proxy API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TON/Developing/API/API.md"
+                "file": "TempFolder/Proxy API.md"
               }
             }
           }
@@ -216,54 +147,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01e5f066b12adf2e",
+  "active": "a780e73b43a62d41",
   "lastOpenFiles": [
-    "TON/Developing/API",
-    "TON/Address/Address.md",
-    "TON/Ton vs TonWeb.md",
-    "TON/Note to read.md",
-    "TON/Sharding.md",
-    "TON/Developing/Programming Language.md",
-    "TON/Ton overflow.md",
-    "TON/Basic Information.md",
-    "TON/Roadmap.md",
+    "TempFolder/Inscription collection.md",
+    "TempFolder/Proxy API.md",
+    "TempFolder/Price Impact.md",
+    "TempFolder",
+    "OpenBit/Ordinal Products.md",
+    "OpenBit/Bytes & Units.md",
+    "TempFolder/Blobscriptions.md",
+    "OpenBit/Commit-reveal protocol?.md",
+    "README.md",
+    "OpenBit/Script - Cơ chế lock & unlock UTXOs.md",
+    "OpenBit/Research transfer Rune & BRC-20.md",
+    "Images/Pasted Image 20240722175338_011.png",
+    "TON/Fee/Fee.md",
+    "TON/Fee/TonKeeper Battery.md",
+    "TON/Message Management/Overview.md",
+    "TON/Message Management/message delivery.md",
+    "Excalidraw/health check.md",
+    "Excalidraw/Rune UTXOs.md",
+    "Excalidraw/Transaction Format.md",
+    "Excalidraw/Send Runes.md",
+    "Excalidraw/Nháp.md",
+    "Excalidraw/Inscription relationship.md",
+    "Excalidraw/inscription balance.md",
+    "Excalidraw/Flow Send Transaction.md",
+    "TON/Fee",
     "TON/Wallet/Wallet.md",
-    "TON/Transaction/Ton transaction.md",
-    "TON/Transaction/Transaction.md",
-    "TON/Developing/API/API.md",
-    "TON/Transaction/Logical time - Lamport time (lt).md",
-    "Pasted image 20240730152903.png",
-    "TON/Transaction/Untitled.md",
-    "TON/Transaction/Storage Fee.md",
-    "TON/Token/Content Subscriptions.md",
+    "TON/Message Management/Sending messages.md",
+    "Excalidraw/Bitcoin Asset.md",
+    "TON/Address/Address.md",
+    "Images/Pasted image 20240802103029.png",
+    "Images/Pasted image 20240802102913.png",
+    "TON/Message Management",
+    "TON/Developing/API",
+    "Images/Pasted image 20240730152903.png",
     "TON/Wallet",
-    "TON/Token/TEP-62 (NFT Standard).md",
-    "TON/Token/TEP-74 (Jettons standard).md",
-    "TON/Token/Toncoin - Native token.md",
-    "TON/Token/TON Blockchain tokens.md",
-    "TON/Token/Jetton and NFT metadata.md",
-    "TON/Developing/4. TonHelloWorld - Testing.md",
-    "TON/Developing/3. TonHelloWorld - Client.md",
-    "TON/Developing/2. TonHelloWorld - Contract.md",
-    "TON/Developing/1. TonHelloWorld - Wallet.md",
     "TON/Transaction",
     "TON/Blogs",
-    "Pasted image 20240725120110.png",
+    "Images/Pasted image 20240725120110.png",
     "TON/Core",
-    "Pasted image 20240724190346.png",
+    "Images/Pasted image 20240724190346.png",
     "TON/Address",
-    "Pasted Image 20240722181918_085.png",
-    "Pasted Image 20240722181847_063.png",
-    "Pasted Image 20240722175338_011.png",
+    "Images/Pasted Image 20240722181918_085.png",
+    "Images/Pasted Image 20240722181847_063.png",
     "TON/Developing",
-    "TON/Token",
-    "TON",
     "Untitled.canvas",
     "Images/Pasted image 20240705103727.png",
-    "Chainlist",
-    "Staking",
-    "Images/Screenshot 2024-04-10 at 16.51.38.png",
-    "Images/Pasted image 20240617154215.png",
-    "Images/Pasted image 20240617095526.png"
+    "Images/Screenshot 2024-04-10 at 16.51.38.png"
   ]
 }

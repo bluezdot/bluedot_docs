@@ -11,9 +11,14 @@
 
 TON vs. Ethereum (Temporary)
 
-| Ethereum                            | Ton          |
-| ----------------------------------- | ------------ |
-| Account-based model                 | Actor model  |
-| Synchronous                         | Asynchronous |
-| Consistent state of blockchain      |              |
-| Atomic transaction (success/failed) |              |
+|                           | Ethereum                                                     | Ton                                                                                  |
+| ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| Model                     | Account-based model                                          | Actor model                                                                          |
+|                           | Synchronous                                                  | Asynchronous                                                                         |
+|                           | Consistent state of blockchain                               | Sharding                                                                             |
+|                           | Atomic transaction (success/failed)                          | Contain message and can failed in some msg                                           |
+|                           |                                                              |                                                                                      |
+| Wallet                    | address & publickey 1-1 relationship                         | A public key can has many wallets and address (each corresponding to smart contract) |
+|                           |                                                              |                                                                                      |
+| Messages and Transactions |                                                              |                                                                                      |
+| Gas system                | fee = units * (base fee + priority fee)<br>storage fee: free |                                                                                      |

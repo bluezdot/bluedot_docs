@@ -1,3 +1,3 @@
-Currently, super-focus on Bitcoin. Everything about Bitcoin is welcome. 
+Currently, super-focus on Ton.
 
 - Contact: labidien2001@gmail.com
