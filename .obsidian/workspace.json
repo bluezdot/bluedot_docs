@@ -21,11 +21,9 @@
             "id": "b1ce5412b8fc2985",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Refactoring/When refactor?.md",
-                "mode": "source",
-                "source": false
+                "file": "TON/Address/Send bounce or unbounce.md"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactoring/When refactor?.md",
+                "file": "TON/Address/Send bounce or unbounce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactoring/When refactor?.md",
+                "file": "TON/Address/Send bounce or unbounce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactoring/When refactor?.md"
+                "file": "TON/Address/Send bounce or unbounce.md"
               }
             }
           }
@@ -160,13 +158,15 @@
   },
   "active": "b1ce5412b8fc2985",
   "lastOpenFiles": [
-    "Staking/Krest staking.md",
-    "Staking/Recommend chọn collator.md",
     "Staking/Trạng thái active của Manta collator.md",
-    "Staking/Withdrawal time.md",
+    "Staking/Recommend chọn collator.md",
+    "Staking/Enjin staking 1.md",
+    "Staking/Enjin staking.md",
+    "Staking/Krest staking.md",
     "Staking/Giới hạn member khi stake vào pool.md",
-    "Staking/Check khi add mạng staking mới.md",
     "Refactoring/When refactor?.md",
+    "Staking/Withdrawal time.md",
+    "Staking/Check khi add mạng staking mới.md",
     "Refactoring",
     "TON/Address/Send bounce or unbounce.md",
     "TON/Address/TEP-2 TON Address.md",
@@ -185,8 +185,6 @@
     "TON/Wallet/Locked balance.md",
     "TON/Token/TON Blockchain tokens.md",
     "Excalidraw/health check.md",
-    "TON/Token/Toncoin - Native token.md",
-    "TON/Token/TEP-74 (Jettons standard).md",
     "TempFolder",
     "Images/Pasted Image 20240722175338_011.png",
     "TON/Fee",
