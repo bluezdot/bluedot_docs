@@ -1,3 +1,4 @@
 staking group
 era time
-inflation
+inflation params
+_UPDATED_RUNTIME_STAKING_GROUP

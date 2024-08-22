@@ -37,7 +37,7 @@ User-friendly: EQDKbjIcfM6ezt8KjKJJLshZJJSqX7XOA4ff-W72r5gqPrHF (4 kiểu dướ
 
 ### Bounceable vs. Non-Bounceable address
 - Mục đích chính là sự an toàn cho funds của người gửi.
-
+- Hỗ trợ UX cho ví.
 Địa chỉ của TON Foundation: https://tonscan.org/address/EQCD39VS5jcptHL8vMjEXrzGaRcCVYto7HUn4bpAOg8xqB2N
 
 Ref: https://docs.ton.org/learn/overviews/addresses
