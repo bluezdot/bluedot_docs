@@ -1,0 +1,4 @@
+- Rule of 3 times
+- Add a feature
+- Fix a bug
+- During code review
