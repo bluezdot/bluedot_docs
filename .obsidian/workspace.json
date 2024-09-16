@@ -48,9 +48,45 @@
                 "file": "XCM/Drawing 2024-08-23 11.54.44.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "263322ea1515992c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Staking/Check khi add mạng staking mới.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f75d6fc4c3db970d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "244c63141301eae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TON/Note to read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -116,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XCM/Drawing 2024-08-23 11.54.44.excalidraw.md",
+                "file": "TON/Note to read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XCM/Drawing 2024-08-23 11.54.44.excalidraw.md",
+                "file": "TON/Note to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XCM/Drawing 2024-08-23 11.54.44.excalidraw.md"
+                "file": "TON/Note to read.md"
               }
             }
           }
@@ -178,36 +214,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa6b33694677c657",
+  "active": "a780e73b43a62d41",
   "lastOpenFiles": [
-    "README.md",
-    "XCM/XCM Transfer Usages.md",
+    "TON/Sharding.md",
+    "TON/Basic Information.md",
+    "Excalidraw/Validate recipient address.md",
+    "TON/Debug transfer Ton fail.md",
+    "TON/TL-B schemas.md",
+    "TON/Transaction/Send mode.md",
+    "TON/Transaction/Storage Fee.md",
+    "TON/Transaction/Ton transaction.md",
+    "TON/Fee/Fee.md",
     "TON/Address/Send bounce or unbounce.md",
-    "XCM/Drawing 2024-08-23 11.54.44.excalidraw.md",
-    "XCM",
-    "Staking/Trạng thái active của Manta collator.md",
-    "Staking/Recommend chọn collator.md",
-    "Staking/Enjin staking 1.md",
-    "Staking/Enjin staking.md",
-    "Staking/Krest staking.md",
-    "Staking/Giới hạn member khi stake vào pool.md",
-    "Refactoring/When refactor?.md",
-    "Staking/Withdrawal time.md",
-    "Staking/Check khi add mạng staking mới.md",
-    "Refactoring",
     "TON/Address/TEP-2 TON Address.md",
+    "TON/Note to read.md",
+    "XCM/Drawing 2024-08-23 11.54.44.excalidraw.md",
     "TON/Address/Address.md",
     "TON/Transaction/Transaction.md",
-    "TON/Fee/TonKeeper Battery.md",
-    "TON/Message Management/Sending messages.md",
-    "TON/Message Management/Overview.md",
-    "TON/Message Management/message delivery.md",
-    "TON/Fee/Fee.md",
-    "TON/Transaction/Ton transaction.md",
-    "TON/Transaction/Storage Fee.md",
-    "TON/Transaction/Send mode.md",
     "TON/Transaction/Logical time - Lamport time (lt).md",
-    "TON/Wallet/Wallet.md",
+    "Checklist.md",
+    "README.md",
+    "Pasted image 20240828123421.png",
+    "Staking/APY.md",
+    "Staking/Check khi add mạng staking mới.md",
+    "Staking/Enjin staking.md",
+    "Staking/Withdrawal time.md",
+    "Staking/Trạng thái active của Manta collator.md",
+    "Staking/Recommend chọn collator.md",
+    "Staking/Krest staking.md",
+    "Staking/Giới hạn member khi stake vào pool.md",
+    "React",
+    "XCM",
+    "Refactoring",
     "TempFolder",
     "Images/Pasted Image 20240722175338_011.png",
     "TON/Fee",
@@ -220,12 +258,10 @@
     "TON/Transaction",
     "TON/Blogs",
     "Images/Pasted image 20240725120110.png",
-    "TON/Core",
     "Images/Pasted image 20240724190346.png",
     "Images/Pasted Image 20240722181918_085.png",
     "Images/Pasted Image 20240722181847_063.png",
     "Untitled.canvas",
-    "Images/Pasted image 20240705103727.png",
-    "Images/Screenshot 2024-04-10 at 16.51.38.png"
+    "Images/Pasted image 20240705103727.png"
   ]
 }
